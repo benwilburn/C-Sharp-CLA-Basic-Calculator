@@ -1,0 +1,5 @@
+/Users/Bwilburn/Projects/firstXamarinConsoleProjectSolution/firstXamarinConsoleProject/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Bwilburn/Projects/firstXamarinConsoleProjectSolution/firstXamarinConsoleProject/bin/Debug/firstXamarinConsoleProject.exe.mdb
+/Users/Bwilburn/Projects/firstXamarinConsoleProjectSolution/firstXamarinConsoleProject/bin/Debug/firstXamarinConsoleProject.exe
+/Users/Bwilburn/Projects/firstXamarinConsoleProjectSolution/firstXamarinConsoleProject/obj/x86/Debug/firstXamarinConsoleProject.exe
+/Users/Bwilburn/Projects/firstXamarinConsoleProjectSolution/firstXamarinConsoleProject/obj/x86/Debug/firstXamarinConsoleProject.exe.mdb
